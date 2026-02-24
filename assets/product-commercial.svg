@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#e2e8f0"/>
+  <g>
+    <rect x="120" y="80" width="560" height="280" fill="#94a3b8" rx="12"/>
+    <path d="M120 220h560" stroke="#334155" stroke-width="8"/>
+    <path d="M260 80v280M400 80v280M540 80v280" stroke="#334155" stroke-width="8"/>
+  </g>
+  <text x="400" y="430" text-anchor="middle" font-size="40" font-family="Arial" fill="#0f172a" font-weight="700">Commercial Grade</text>
+</svg>
