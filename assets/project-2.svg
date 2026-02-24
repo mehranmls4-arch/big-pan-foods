@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 450">
+  <rect width="700" height="450" fill="#f1f5f9"/>
+  <rect x="60" y="80" width="580" height="300" fill="#cbd5e1" rx="16"/>
+  <path d="M60 230 H640" stroke="#64748b" stroke-width="10"/>
+  <path d="M200 80 V380 M340 80 V380 M480 80 V380" stroke="#64748b" stroke-width="10"/>
+  <text x="350" y="55" text-anchor="middle" font-size="34" font-family="Arial" fill="#0f172a" font-weight="700">Pathway Project</text>
+</svg>

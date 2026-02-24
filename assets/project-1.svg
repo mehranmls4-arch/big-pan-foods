@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 450">
+  <rect width="700" height="450" fill="#ecfeff"/>
+  <path d="M0 320 L350 180 L700 320 V450 H0Z" fill="#99f6e4"/>
+  <path d="M0 360 L350 220 L700 360" stroke="#0f766e" stroke-width="14"/>
+  <text x="350" y="80" text-anchor="middle" font-size="36" font-family="Arial" fill="#134e4a" font-weight="700">Driveway Project</text>
+</svg>

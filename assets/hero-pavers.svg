@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0f766e"/>
+      <stop offset="1" stop-color="#115e59"/>
+    </linearGradient>
+    <pattern id="p" width="90" height="60" patternUnits="userSpaceOnUse">
+      <rect width="90" height="60" fill="#d1fae5"/>
+      <rect x="2" y="2" width="40" height="26" fill="#99f6e4" rx="3"/>
+      <rect x="46" y="2" width="42" height="26" fill="#5eead4" rx="3"/>
+      <rect x="2" y="32" width="42" height="26" fill="#2dd4bf" rx="3"/>
+      <rect x="46" y="32" width="40" height="26" fill="#14b8a6" rx="3"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="700" fill="url(#g)"/>
+  <rect x="120" y="90" width="960" height="520" rx="28" fill="url(#p)" opacity="0.9"/>
+  <text x="600" y="350" text-anchor="middle" font-size="64" font-family="Arial" fill="#0f172a" font-weight="700">NEXCRETE PAVERS</text>
+  <text x="600" y="410" text-anchor="middle" font-size="30" font-family="Arial" fill="#1e293b">Durable • Slip Resistant • Long Lasting</text>
+</svg>
